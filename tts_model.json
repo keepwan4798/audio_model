@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "id": "kokoro_multi_lang",
+      "type": "kokoro",
+      "name": "Kokoro Multi Lang",
+      "language": "multi",
+      "gender": "multi",
+      "quality": "high",
+      "size_mb": 337,
+      "model_url": "https://huggingface.co/CodeBySonu95/Sherpa-onnx-models/resolve/main/kokoro-multi-lang/model.onnx",
+      "tokens_url": "https://huggingface.co/CodeBySonu95/Sherpa-onnx-models/resolve/main/kokoro-multi-lang/tokens.txt",
+      "voices_bin_url": "https://huggingface.co/CodeBySonu95/Sherpa-onnx-models/resolve/main/kokoro-multi-lang/voices.bin"
+    }
+  ]
+}
