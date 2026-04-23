@@ -1,6 +1,8 @@
 {
+  "msg": "fetch models success",
+  "code": 200,
   "version": 1,
-  "models": [
+  "data": [
     {
       "id": "sense_voice",
       "type": "senseVoice",
