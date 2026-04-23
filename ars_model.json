@@ -13,7 +13,7 @@
       "quality": "high",
       "size_mb": 237.1,
       "model_url": "https://huggingface.co/csukuangfj/sherpa-onnx-sense-voice-zh-en-ja-ko-yue-int8-2025-09-09/blob/main/model.int8.onnx",
-      "tokens_url": "https://huggingface.co/csukuangfj/sherpa-onnx-sense-voice-zh-en-ja-ko-yue-int8-2025-09-09/blob/main/tokens.txt",
+      "tokens_url": "https://huggingface.co/csukuangfj/sherpa-onnx-sense-voice-zh-en-ja-ko-yue-int8-2025-09-09/blob/main/tokens.txt"
     },
     {
       "id": "parakeet_tdt",
@@ -26,7 +26,7 @@
       "encoder_model_url": "https://huggingface.co/csukuangfj/sherpa-onnx-nemo-parakeet-tdt-0.6b-v2-int8/blob/main/encoder.int8.onnx",
       "decoder_model_url": "https://huggingface.co/csukuangfj/sherpa-onnx-nemo-parakeet-tdt-0.6b-v2-int8/blob/main/decoder.int8.onnx",
       "joiner_model_url": "https://huggingface.co/csukuangfj/sherpa-onnx-nemo-parakeet-tdt-0.6b-v2-int8/blob/main/joiner.int8.onnx",
-      "tokens_url": "https://huggingface.co/csukuangfj/sherpa-onnx-nemo-parakeet-tdt-0.6b-v2-int8/blob/main/tokens.txt",
+      "tokens_url": "https://huggingface.co/csukuangfj/sherpa-onnx-nemo-parakeet-tdt-0.6b-v2-int8/blob/main/tokens.txt"
     },
     {
       "id": "streaming_zipformer",
@@ -40,7 +40,7 @@
       "decoder_model_url": "https://huggingface.co/csukuangfj/sherpa-onnx-streaming-zipformer-ar_en_id_ja_ru_th_vi_zh-2025-02-10/blob/main/decoder-epoch-75-avg-11-chunk-16-left-128.onnx",
       "joiner_model_url": "https://huggingface.co/csukuangfj/sherpa-onnx-streaming-zipformer-ar_en_id_ja_ru_th_vi_zh-2025-02-10/blob/main/joiner-epoch-75-avg-11-chunk-16-left-128.int8.onnx",
       "bpe_model_url": "https://huggingface.co/csukuangfj/sherpa-onnx-streaming-zipformer-ar_en_id_ja_ru_th_vi_zh-2025-02-10/blob/main/bpe.model",
-      "tokens_url": "https://huggingface.co/csukuangfj/sherpa-onnx-streaming-zipformer-ar_en_id_ja_ru_th_vi_zh-2025-02-10/blob/main/tokens.txt",
+      "tokens_url": "https://huggingface.co/csukuangfj/sherpa-onnx-streaming-zipformer-ar_en_id_ja_ru_th_vi_zh-2025-02-10/blob/main/tokens.txt"
     }
   ]
 }
