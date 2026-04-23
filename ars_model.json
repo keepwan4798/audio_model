@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "models": [
+    {
+      "id": "sense_voice",
+      "type": "senseVoice",
+      "name": "Sense Voice",
+      "language": "zh-en-ja-ko-yue",
+      "gender": "zh-en-ja-ko-yue",
+      "quality": "high",
+      "size_mb": 237.1,
+      "model_url": "https://huggingface.co/csukuangfj/sherpa-onnx-sense-voice-zh-en-ja-ko-yue-int8-2025-09-09/blob/main/model.int8.onnx",
+      "tokens_url": "https://huggingface.co/csukuangfj/sherpa-onnx-sense-voice-zh-en-ja-ko-yue-int8-2025-09-09/blob/main/tokens.txt",
+    },
+    {
+      "id": "parakeet_tdt:",
+      "type": "nemo_transducer:",
+      "name": "Parakeet Tdt:",
+      "language": "zh-en",
+      "gender": "zh-en-ja",
+      "quality": "high",
+      "size_mb": 237.1,
+      "encoder_model_url": "https://huggingface.co/csukuangfj/sherpa-onnx-nemo-parakeet-tdt-0.6b-v2-int8/blob/main/encoder.int8.onnx",
+      "decoder_model_url": "https://huggingface.co/csukuangfj/sherpa-onnx-nemo-parakeet-tdt-0.6b-v2-int8/blob/main/decoder.int8.onnx",
+      "joiner_model_url": "https://huggingface.co/csukuangfj/sherpa-onnx-nemo-parakeet-tdt-0.6b-v2-int8/blob/main/joiner.int8.onnx",
+      "tokens_url": "https://huggingface.co/csukuangfj/sherpa-onnx-nemo-parakeet-tdt-0.6b-v2-int8/blob/main/tokens.txt",
+    }
+  ]
+}
