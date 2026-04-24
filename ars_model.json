@@ -30,7 +30,7 @@
     },
     {
       "id": "streaming_zipformer",
-      "type": "zipformer2:",
+      "type": "zipformer2",
       "name": "Streaming Zipformer",
       "language": "ar_en_id_ja_ru_th_vi_zh",
       "gender": "ar_en_id_ja_ru_th_vi_zh",
